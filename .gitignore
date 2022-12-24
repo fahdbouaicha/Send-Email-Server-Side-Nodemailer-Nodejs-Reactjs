@@ -1,0 +1,3 @@
+./backend/config
+./backend/node_modules
+./send-email-app/node_modules
